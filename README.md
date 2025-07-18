@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/6rLdXBR6)
 # 河野ゼミ研修課題2025
 **資　料**  
 [[10:18] requestsの使い方解説！](https://www.youtube.com/watch?v=2vHAOVp9S4U&t=0s)  
